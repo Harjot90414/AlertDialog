@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlertDialogOptionalTask</string>
+    <string name="dialog">Dialog</string>
+    <string name="operations">Operations</string>
+    <string name="message">
+        "        Press Add Button to add 10
+        Press Mul Button to multiply by 5
+        Press Reset Button to reset"</string>
+    <string name="neutral">Neutral</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="reset">Reset</string>
+    <string name="mul">Mul</string>
+    <string name="add">Add</string>
+</resources>
